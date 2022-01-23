@@ -1,0 +1,25 @@
+/* we will link this CSS stylesheet to our index.html */
+
+body {
+    background-color: #EEEEEE;
+}
+
+h1, h3 {
+    color: #557C55;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+.manya {
+    border-radius: 100%;
+}
+
+/* jab b width percent me hota h, to uske according page ki width ya uske according elements ki display change hoti h. Mtlb jse hi width 5% hoga to content 5% margin ke hisaab se width me kam-zada hoke display krega. */
+
+/* HR ka margin uske upar and neeche ke elements or uske beech ka difference hota h. */
